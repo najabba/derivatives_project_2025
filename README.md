@@ -1,1 +1,2 @@
-# derivatives_project_2025
+# DERIVATIVES PROJECT
+Professor : Julien Hugonnier
